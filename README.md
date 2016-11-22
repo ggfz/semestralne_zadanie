@@ -14,3 +14,8 @@
 * bezvýkonový zosilňovač
 
 Toto mame a mozno to aj vratime ;)
+
+
+*********************
+*********************
+*********************
