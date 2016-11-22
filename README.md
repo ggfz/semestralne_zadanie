@@ -1,3 +1,5 @@
-# semestralne_zadanie
+## Semestrálne zadanie Vnorené systémy
+
+# Elektronická hracia kocka
 
 Ou jeee
